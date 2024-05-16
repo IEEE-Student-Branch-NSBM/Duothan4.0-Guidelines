@@ -58,16 +58,15 @@ Neotropolis. The system should have the following features:
 
 | Feature                                           | Score |
 | ------------------------------------------------- | ----- |
+| Database                                          | 135   |
 | DTP (Digital Transport Pass)                      | 180   |
-| Database                                          | 140   |
-| Real-time Tracking                                | 100   |
-| Integrated Payment System                         | 100   |
-| Traffic Optimization                              | 120   |
-| UI / UX                                           | 70    |
-| Futuristic Interface (Understanding the UI theme) | 30    |
-| Teamwork                                          | 100   |
+| Real-time Tracking                                | 70    |
+| Interface                                         | 205   |
+| UI                                                | 30    |
 | Video Submission                                  | 100   |
 | Final Submission                                  | 60    |
+| Teamplay                                          | 68    |
+| Admin                                             | 152   |
 
 ## Tasks Breakdown
 
@@ -93,3 +92,7 @@ Neotropolis. The system should have the following features:
 - Task 05: Teamwork and Collaboration
 
   - Collaborate effectively as a team to ensure seamless integration of all components and deliver a functional Smart Transport Management System for Neotropolis.
+
+## Additional Resources
+
+- Figam: https://www.figma.com/design/8hmvmPLRZViPUbKujWTpVp/Duothan-4.0-Wireframe?node-id=0%3A1&t=W9hnqfbdksw0KYU0-1
