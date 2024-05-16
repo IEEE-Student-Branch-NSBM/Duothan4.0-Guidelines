@@ -66,7 +66,7 @@ Neotropolis. The system should have the following features:
 | Video Submission                                  | 100   |
 | Final Submission                                  | 60    |
 | Teamplay                                          | 68    |
-| Admin                                             | 152   |
+| Admin Dashboard                                   | 152   |
 
 ## Tasks Breakdown
 
