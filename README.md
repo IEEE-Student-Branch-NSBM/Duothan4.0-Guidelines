@@ -95,4 +95,4 @@ Neotropolis. The system should have the following features:
 
 ## Additional Resources
 
-- Figam: https://www.figma.com/design/8hmvmPLRZViPUbKujWTpVp/Duothan-4.0-Wireframe?node-id=0%3A1&t=W9hnqfbdksw0KYU0-1
+- Wireframe: https://www.figma.com/design/8hmvmPLRZViPUbKujWTpVp/Duothan-4.0-Wireframe?node-id=0%3A1&t=W9hnqfbdksw0KYU0-1
